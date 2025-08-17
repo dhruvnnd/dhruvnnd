@@ -32,17 +32,17 @@
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/558680515796795412)](https://discord.com/users/558680515796795412) -->
 
 <!-- My GitHub Stats -->
-<p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api?username=iDCoded&show_icons=true&theme=onedark&hide_border=true" alt="dcoded stats" /> </a> </p>
+<p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvnnd&show_icons=true&theme=onedark&hide_border=true" alt="dcoded stats" /> </a> </p>
 
 <!-- My GitHub Streaks  -->
-<p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=onedark&hide_border=true" href="https://github.com/iDCoded"/> </p>
+<p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=dhruvnnd&theme=onedark&hide_border=true" href="https://github.com/dhruvnnd"/> </p>
 <!-- [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=nord&hide_border=true)](https://git.io/streak-stats) -->
 
 <!-- Top Language Stats -->
-<p align="center"> <a href="https://github.com/iDCoded"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDCoded&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"> </a> </p>
+<p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvnnd&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"> </a> </p>
 
 <!-- My Trophies -->
-<p align="center"> <a href='https://github.com/iDCoded'><img src="https://github-profile-trophy.vercel.app/?username=idcoded&theme=onedark&row=2&column=3&no-frame=true" alt="idcoded trophies" /> </a> </p>
+<p align="center"> <a href='https://github.com/dhruvnnd'><img src="https://github-profile-trophy.vercel.app/?username=dhruvnnd&theme=onedark&row=2&column=3&no-frame=true" alt="dhruvnnd trophies" /> </a> </p>
 
 <!-- StackOverflow Flair -->
 <!-- <p align="center"> <a href="https://stackoverflow.com/users/13818436/dhruv-anand"><img src="https://stackoverflow.com/users/flair/13818436.png?theme=dark" width="208" height="58" alt="profile for Dhruv Anand at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dhruv Anand at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p> -->
@@ -56,17 +56,19 @@
 ---
 <!-- Contributions -->
 <!-- Isometric Commit Calender -->
-<!-- <p align='center'> <a href='https://github.com/iDCoded'><img src='https://metrics.lecoq.io/iDCoded?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' alt='Isometric Commit Calender'/> </a> </p> -->
+<!-- <p align='center'> <a href='https://github.com/dhruvnnd'><img src='https://metrics.lecoq.io/dhruvnnd?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' alt='Isometric Commit Calender'/> </a> </p> -->
 
 <!-- Activity Graph 
-[![Dhruv's github activity graph](https://activity-graph.herokuapp.com/graph?username=iDCoded&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/iDCoded)
+[![Dhruv's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvnnd&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/dhruvnnd)
 -->
 
-<p>Might as well follow me and ⭐<b>Star</b>⭐ my <a href='https://github.com/iDCoded?tab=repositories'>projects</a></p>
+<p>Might as well follow me and ⭐<b>Star</b>⭐ my <a href='https://github.com/dhruvnnd?tab=repositories'>projects</a></p>
 
-<a href='https://github.com/iDCoded?tab=followers'><img alt="GitHub followers" src="https://img.shields.io/github/followers/iDCoded?style=for-the-badge"></a>
-<!-- GitHub Profile Views -->
-<a href="https://github.com/iDCoded"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=iDCoded&style=social&color=282c34"> </a>
+<a href='https://github.com/dhruvnnd?tab=followers'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dhruvnnd?style=for-the-badge"></a>
+<!-- GitHub Profile Views (Old; has more views lol)-->
+<a href="https://github.com/dhruvnnd"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=iDCoded&style=social&color=282c34"> </a>
+<!-- GitHub Profile Views (New)-->
+<!-- <a href="https://github.com/dhruvnnd"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dhruvnnd&style=social&color=282c34"> </a> -->
 
 ---
 
