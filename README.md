@@ -32,7 +32,7 @@
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/558680515796795412)](https://discord.com/users/558680515796795412) -->
 
 <!-- My GitHub Stats -->
-<p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvnnd&show_icons=true&theme=onedark&hide_border=true" alt="dcoded stats" /> </a> </p>
+<p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvnnd&show_icons=true&theme=onedark&hide_border=true" alt="dhruv stats" /> </a> </p>
 
 <!-- My GitHub Streaks  -->
 <p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=dhruvnnd&theme=onedark&hide_border=true" href="https://github.com/dhruvnnd"/> </p>
