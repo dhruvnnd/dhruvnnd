@@ -6,16 +6,21 @@
 ![lightmode-banner](https://user-images.githubusercontent.com/65074550/154921132-bce40455-d8e3-4ace-ba59-48855f65e1a5.gif#gh-light-mode-only)
 
 ### `me.json`
+```bash
+$ cd ~/dev/dhruvnnd
+```
 ```json
 {
   "name": "Dhruv",
+  "handle": "@dhruvnnd",
   "age": "19",
-  "country": "India",
+  "location": "India",
+  "education": "IIIT Nagpur · B.Tech CS",
+  "interests": ["systems", "low-level", "C", "compilers", "linux"],
   "language": {
-    "speaking": ["English", "Hindi"],
-    "programming": ["JavaScript", "TypeScript", "C#", "C++"],
-  },
-  "hobbies" : ["Programming", "Computers", "Gaming", "Planes", "Cars"],
+    "speaking": ["english", "hindi"],
+    "programming": ["C", "C++", "TypeScript", "Go", "Python"],
+  }
 }
 ```
 
@@ -27,64 +32,86 @@
 -->
 
 ---
-<!-- Discord Presence  -->
-<!-- <p align="center"> <a href="https://discord.com/users/558680515796795412"> <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/558680515796795412"/> </a> </p> -->
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/558680515796795412)](https://discord.com/users/558680515796795412) -->
 
 <!-- My GitHub Stats -->
-<p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvnnd&show_icons=true&theme=onedark&hide_border=true" alt="dhruv stats" /> </a> </p>
+<!-- <p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvnnd&show_icons=true&theme=onedark&hide_border=true" alt="dhruv stats" /> </a> </p> -->
 
 <!-- My GitHub Streaks  -->
-<p align="center" > <img src="http://github-readme-streak-stats.herokuapp.com?user=dhruvnnd&theme=onedark&hide_border=true" href="https://github.com/dhruvnnd"/> </p>
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvnnd&theme=transparent&hide_border=true&stroke=e2e1de&ring=111110&fire=111110&currStreakLabel=111110&sideLabels=6f6e6b&currStreakNum=111110&sideNums=111110&dates=a8a7a3" />
+</p> -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=dhruvnnd&theme=transparent&hide_border=true&stroke=2a2926&ring=f0efee&fire=f0efee&currStreakLabel=f0efee&sideLabels=7a7975&currStreakNum=f0efee&sideNums=f0efee&dates=3a3a38&background=111110">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=dhruvnnd&theme=transparent&hide_border=true&stroke=e2e1de&ring=111110&fire=111110&currStreakLabel=111110&sideLabels=6f6e6b&currStreakNum=111110&sideNums=111110&dates=a8a7a3&background=f8f8f7">
+  <img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=dhruvnnd&theme=transparent&hide_border=true" />
+</picture>
+</p>
+
 <!-- [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iDCoded&theme=nord&hide_border=true)](https://git.io/streak-stats) -->
 
 <!-- Top Language Stats -->
-<p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvnnd&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"> </a> </p>
+<!-- <p align="center"> <a href="https://github.com/dhruvnnd"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvnnd&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"> </a> </p> -->
 
 <!-- My Trophies -->
-<p align="center"> <a href='https://github.com/dhruvnnd'><img src="https://github-profile-trophy.vercel.app/?username=dhruvnnd&theme=onedark&row=2&column=3&no-frame=true" alt="dhruvnnd trophies" /> </a> </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dhruvnnd&theme=onedark&no-frame=true&no-bg=true&row=1&column=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dhruvnnd&theme=flat&no-frame=true&no-bg=true&row=1&column=6">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=dhruvnnd&no-frame=true&no-bg=true&row=1&column=6" />
+</picture>
+</p>
 
 <!-- StackOverflow Flair -->
 <!-- <p align="center"> <a href="https://stackoverflow.com/users/13818436/dhruv-anand"><img src="https://stackoverflow.com/users/flair/13818436.png?theme=dark" width="208" height="58" alt="profile for Dhruv Anand at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dhruv Anand at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> </p> -->
 
-<!-- 
-<p align="center"> <a href="https://github.com/iDCoded/D-Pad"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=D-Pad&theme=onedark&hide_border=true" alt="d-pad" /> </a> </p>
-
-<p align="center"> <a href="https://github.com/iDCoded/Pomodoro-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=iDCoded&repo=Pomodoro-App&theme=onedark&hide_border=true" alt="pomodoro app"> </a> </p>
--->
-
 ---
-<!-- Contributions -->
-<!-- Isometric Commit Calender -->
-<!-- <p align='center'> <a href='https://github.com/dhruvnnd'><img src='https://metrics.lecoq.io/dhruvnnd?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata' alt='Isometric Commit Calender'/> </a> </p> -->
 
-<!-- Activity Graph 
-[![Dhruv's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvnnd&area=true&hide_border=true&theme=github&bg_color=22272E)](https://github.com/dhruvnnd)
--->
+<h3 align="left">Connect with me</h3>
 
-<p>Might as well follow me and ⭐<b>Star</b>⭐ my <a href='https://github.com/dhruvnnd?tab=repositories'>projects</a></p>
-
-<a href='https://github.com/dhruvnnd?tab=followers'><img alt="GitHub followers" src="https://img.shields.io/github/followers/dhruvnnd?style=for-the-badge"></a>
-<!-- GitHub Profile Views (Old; has more views lol)-->
-<a href="https://github.com/dhruvnnd"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=iDCoded&style=social&color=282c34"> </a>
-<!-- GitHub Profile Views (New)-->
-<!-- <a href="https://github.com/dhruvnnd"> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=dhruvnnd&style=social&color=282c34"> </a> -->
+<table><tr>
+<td><a href="https://dhruvnnd.fyi"><img src="https://img.shields.io/badge/dhruvnnd.fyi-000?style=flat-square&logo=firefox&logoColor=white" /></a></td>
+<td><a href="mailto:ananddhruv29@gmail.com"><img src="https://img.shields.io/badge/gmail-000?style=flat-square&logo=gmail&logoColor=white" /></a></td>
+<td><a href="https://www.linkedin.com/in/ananddhruv29"><img src="https://img.shields.io/badge/linkedin-000?style=flat-square&logo=linkedin&logoColor=white" /></a></td>
+<td><a href="https://github.com/dhruvnnd"><img src="https://img.shields.io/badge/github-000?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://dev.to/ananddhruv295"><img src="https://img.shields.io/badge/dev.to-000?style=flat-square&logo=devdotto&logoColor=white" /></a></td>
+</tr></table>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/ananddhruv295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananddhruv295" height="30" width="40" /></a> -->
+<!-- Skills -->
+<h3 align="left">Skills & Technologies</h3>
+<table>
+<tr>
+<td valign="middle"><sub>LANGUAGES</sub></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="28" height="28" title="C" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="28" height="28" title="C++" /></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28" title="TypeScript" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" title="Python" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="28" height="28" title="Go" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="28" height="28" title="Kotlin" /></td>
+</tr>
+<tr>
+<td valign="middle"><sub>TOOLS & INFRA</sub></td>
+<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28" title="Git" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28" height="28" title="Linux" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="28" height="28" title="Docker" /></td>
+</tr>
+<tr>
+<td valign="middle"><sub>FRONTEND</sub></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="28" height="28" title="Svelte" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28" height="28" title="Next.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28" title="React" /></td>
+</tr>
+<tr>
+<td valign="middle"><sub>BACKEND</sub></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="28" height="28" title="FastAPI" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="28" height="28" title="Flask" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28" height="28" title="PostgreSQL" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="28" height="28" title="Redis" /></td>
+</tr>
+</table>
+
+---
  
-  <a href='https://www.linkedin.com/in/ananddhruv29'> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ananddhruv29 at linkedin"/> </a>
-  <a href='https://dev.to/ananddhruv295'> <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ananddhruv29 at dev.to"/> </a>
-  
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40" alt="golang" /> </a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="next js" /> </a> <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="next js" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cpp" /> </a> </p>
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> -->
-
----
+<sub>© 2026 Dhruv Anand · [dhruvnnd.fyi](https://dhruvnnd.fyi) | [ananddhruv29@gmail.com](mailto:ananddhruv29@gmail.com)</sub>
