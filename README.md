@@ -13,7 +13,7 @@ $ cd ~/dev/dhruvnnd
 {
   "name": "Dhruv",
   "handle": "@dhruvnnd",
-  "age": "19",
+  "age": "20",
   "location": "India",
   "education": "IIIT Nagpur · B.Tech CS",
   "interests": ["systems", "low-level", "C", "compilers", "linux"],
